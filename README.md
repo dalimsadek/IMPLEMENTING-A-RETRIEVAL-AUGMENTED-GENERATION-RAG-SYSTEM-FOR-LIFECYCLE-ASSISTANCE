@@ -34,13 +34,6 @@ The `Sketch Generation` folder contains:
 - **LLM Integration**: Use of models like Llama3-70b-8192 via `langchain_groq`.
 - **Context Retrieval**: Use of Chroma DB to retrieve relevant documents.
 
-## How to Use (Hypothetical)
-
-Although specific usage instructions are not provided in the repository, the general workflow would involve:
-
-1.  **Prepare Data**: Use preprocessing scripts to create the necessary context files.
-2.  **Define Tasks**: Specify the tasks or queries for which the RAG system should generate responses or code.
-3.  **Execute Generation**: Use the notebooks (e.g., `main_code.ipynb`) to run the RAG process, which will retrieve relevant information and generate the desired output.
 
 
 
@@ -50,5 +43,5 @@ To contribute to this project, please follow standard GitHub guidelines: fork th
 
 ## License
 
-(Not specified in the repository, to be added if available.)
-
+Mohamed Ali Msadek & Mohamed Amine Khediri
+EURECOM - France
